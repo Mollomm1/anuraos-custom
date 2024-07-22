@@ -1,0 +1,12 @@
+{
+    "name": "Example App",
+    "type": "auto",
+    "package": "example.app",
+    "index": "index.html",
+    "icon": "icon.png",
+    "wininfo": {
+        "title": "",
+        "width": "500px",
+        "height": "500px"
+    }
+}
