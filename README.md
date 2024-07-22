@@ -16,5 +16,7 @@ todo:
 - clean the codebase
 
 FAQ:
+
 Q/ How To Add Custom Apps
-add your .app folder in the CustomApps folder.
+
+A/ add your .app folder in the CustomApps folder.
